@@ -1,3 +1,4 @@
+#Created by Tyler Dice
 startNum=int(input('Enter a number to be Collatz\'d: ')) #Ask the User for a number
 jumps=int(0) #Start the counter for jumps at zero
 currentNum=int(startNum) #Assign the starting number to the current number
